@@ -5,3 +5,5 @@ function youSayGoodBye() {
     }
     return andISayHello;
 } //функция внутри функции 
+
+youSayGoodBye()
